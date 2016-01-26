@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+# highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Иван Ревзин
+tagline:          'Learning the Rules'
+description:      'Я пишу о продуктивности, книгах и технологиях.'
+url:              http://reivan.ru/
+baseurl:          /
+
+author:
+  name:           'Иван Ревзин'
+  url:            https://twitter.com/IvanRevzin
+
+paginate:         5
+
+# Custom vars
+# version:          2.1.0
+
+# github:
+#   repo:           https://github.com/poole/hyde
