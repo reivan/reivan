@@ -7,6 +7,14 @@ title: Идеи
 
 Если знаете кого-то, кому нужно что-то из этого - пишите. Может есть те, кто готов за это деньги дать?
 
+Table of Contents:
+
+- Pomodoro Hourglass
+- Мероприятие про идеи
+- Рынок 3D моделей на блокчейне
+- Автоматический преобразователь наброска в интерфейс
+- Linked files
+
 ## Pomodoro Hourglass
 
 ![](/public/images_for_ideas/pomodoro_hourglass.png)
@@ -43,4 +51,8 @@ title: Идеи
 
 Думаю на такое можно получить инвестиции. Хотя бы на то, чтобы проверить гипотезу, посмотреть возможно ли это вообще с нынешними технологиями.
 
-Модные слова: Machine Learning, Artificial Intelligence, Pattern Matching, Code Generation.
+Модные слова: `Machine Learning`, `Artificial Intelligence`, `Pattern Matching`, `Code Generation`.
+
+## Linked files
+
+![](/public/images_for_ideas/linked_files_v3.png)
