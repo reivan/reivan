@@ -7,14 +7,14 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Иван Ревзин
-tagline:          'General-purpose learning agent'
-description:      'Я пишу о книгах, продуктивности и технологиях.'
+title:            reivan
+tagline:          'general-purpose learning agent'
+description:      'книги, продуктивность, технологии'
 url:              http://reivan.ru/
 baseurl:          /
 
 author:
-  name:           'Иван Ревзин'
+  name:           'reivan'
   url:            https://twitter.com/IvanRevzin
 
 paginate:         5
